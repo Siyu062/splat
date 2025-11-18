@@ -1,8 +1,15 @@
+## Webビューワーはこちらから（GitHub Pages）
+→ [https://siyu062.github.io/splat/](https://siyu062.github.io/splat/)
+### アンケートフォーム
+→ [https://docs.google.com/forms/d/e/1FAIpQLScbnIF95DHFiDuN_2b5aZDxpiQ469VBRiWsbKLT4O7dIk942Q/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLScbnIF95DHFiDuN_2b5aZDxpiQ469VBRiWsbKLT4O7dIk942Q/viewform?usp=header)
+
+</br>
+
+以下、[フォーク元](https://github.com/antimatter15/splat) のREADME
+
 # splat
 
 This is a WebGL implementation of a real-time renderer for [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), a recently developed technique for taking a set of pictures and generating a photorealistic navigable 3D scene out of it. As it is essentially an extension of rendering point clouds, rendering scenes generated with this technique can be done very efficiently on ordinary graphics hardware- unlike prior comparable techniques such as NeRFs.
-
-> **Note:** For a more advanced Gaussian splatting renderer, check out [Spark](https://github.com/sparkjsdev/spark) - a dynamic 3DGS renderer for THREE.js with support for animations, multiple formats, and advanced features. See the [documentation](https://sparkjs.dev/) for more details.
 
 You can [try it out here](https://antimatter15.com/splat/).
 
